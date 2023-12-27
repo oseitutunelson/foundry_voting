@@ -56,7 +56,7 @@ The smart contract is implemented in Solidity version ^0.8.18.
 
 ## Testing
 
-The smart contract can be tested using foundry (forge test)
+The smart contract can be tested using foundry (`forge test`)
 
 ## Deployment
 
